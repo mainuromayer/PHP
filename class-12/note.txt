@@ -1,0 +1,13 @@
++-----------+-------------+    
+|           | Choose File |    |  <input type='file' name='image' />
++-----------+-------------+    
+                               
+$_FILES['image']               |  move_uploaded_file(file, dest)
+    ↓                          
+ • name
+
+ • size
+
+ • tmp_name
+
+ • type JPG / PNF / GIF

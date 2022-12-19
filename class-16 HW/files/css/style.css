@@ -1,0 +1,79 @@
+@font-face {
+  font-family: Garet sans-serif;
+  src: url("..//assets//fonts//Poppins-Black.ttf");
+  src: url("..//assets//fonts//Poppins-Bold.ttf");
+  src: url("..//assets//fonts//Poppins-ExtraBold.ttf");
+  src: url("..//assets//fonts//Poppins-SemiBold.ttf");
+  src: url("..//assets//fonts//Poppins-Medium.ttf");
+  src: url("..//assets//fonts//Poppins-Regular.ttf");
+  src: url("..//assets//fonts//Poppins-Light.ttf");
+  src: url("..//assets//fonts//Poppins-Thin.ttf");
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+  background-color: #D7D9D8;
+  color: #ffffff;
+}
+
+.container {
+  background: #111518;
+  width: 50%;
+  margin: 100px auto;
+  padding: 20px;
+}
+
+.container h1 {
+  text-align: center;
+}
+
+legend {
+  text-align: center;
+  font-weight: 700;
+  font-size: 19px;
+}
+
+form {
+  background-color: #191E22;
+  padding: 20px;
+  line-height: 58px;
+  border-radius: 10px;
+}
+
+form input {
+  padding: 11px;
+  font-size: 15px;
+  background: #11141A;
+  border: none;
+  border-radius: 5px;
+  outline: none;
+  color: #ffffff;
+}
+
+form #email {
+  margin-left: 53px;
+  width: 494px;
+}
+
+form #password {
+  margin-left: 22px;
+  width: 494px;
+}
+
+form #submit {
+  margin-top: 25px;
+  margin-left: 106px;
+  padding: 9px 48px;
+  cursor: pointer;
+  font-size: 20px;
+  font-weight: 500;
+}
+
+form #submit:hover {
+  background: #010101;
+}
+
+form a {
+	color: #ffffff;
+	font-size: 24px;
+}

@@ -1,0 +1,21 @@
+Query :(Database)
+================
+mysql -u root
+exit
+show databases;
+create database daily_hisab
+use daily_hisab;
+show tables;
+
+
+
+
+select name from user where amount <= 1000;
+select name as username from user;
+select COUNT(*) from `order` where (amount <= 1000);
+
+table add and remove new column :                   
+AlTER TABLE users ADD column something varchar(20) not null,
+AlTER TABLE users DROP column something,
+
+

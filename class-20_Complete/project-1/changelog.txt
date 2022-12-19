@@ -1,0 +1,9 @@
+Add sidebar & Header
+Add helper class
+Add configuration system
+separate frontend code from the root file.
+Add core configuration system into core file
+Set Active Class in sidebar
+Logout functionality implement by using JS
+
+:: [scope resulation]

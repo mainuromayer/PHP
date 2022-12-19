@@ -1,0 +1,52 @@
+OOP : Object Oriented Programming
+
+-> Class
+-> Object
+-> Inheritence 
+-> Polymorphism
+-> Abstraction
+-> Encapsulation
+---------------------------
+Special in PHP :
+	- interface
+	- trait
+	- namespace
+
+---------------------------
+class < property
+function < method
+---------------------------
+class :
+	- property
+
+	- method
+---------------------------
+php excess modifier :
+	- public
+	- private
+	- protected
+
+--------------------------
+
+php sigle inheritence use only
+
+single inheritence :
+	Parent
+	 |
+	Child
+	 |
+	 p
+
+--------------------------
+
+multi inheritence :
+
+	Child			- use trait
+	  |
+ ------------------------
+ |	 |      |   |   |
+parent parent  ... ... ...
+ |
+ p
+--------------------------
+construct

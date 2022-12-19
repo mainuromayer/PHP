@@ -1,0 +1,63 @@
+
+=====================================================================
+
+Datatype :
+----------
+
+		Numeric Data Type
+		-----------------
+
+	• SMALLINT	|	• FLOAT
+	• INT		|	• DOUBLE(M,D)
+	• BIGINT	|	• DECIMAL(M,D)
+
+
+
+
+		Character Type
+		--------------
+
+	• Char(m)	// full_memory_space
+	• Varchar(m)	// word_wise_memory_space
+	• text
+
+
+
+
+
+
+		Date and Time Data Type
+		-----------------------
+
+	• YEAR(YYYY)
+	• DATE(YYYY-MM-DD)
+	• TIME(HH:MM:SS)
+
+
+
+
+
+
+		Some Other Datatype
+		-------------------
+	• BLOB	// use image, audio etc.
+	• Logical	// use true, false etc.
+
+
+
+-------------------------------------------------------------------------------
+
+
+
+BLOB - একটি BLOB হল একটি binary large object যা পরিবর্তনশীল পরিমাণ ডেটা ধারণ করতে পারে।
+BLOB চার প্রকার - 
+ -> TINYBLOB
+ -> BLOB
+ -> MEDIUMBLOB
+ -> LONGBLOB৷ 
+
+
+
+
+
+=====================================================================

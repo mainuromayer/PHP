@@ -1,0 +1,144 @@
+@font-face {
+  font-family: Garet sans-serif;
+  src: url("..//assets//fonts//Poppins-Black.ttf");
+  src: url("..//assets//fonts//Poppins-Bold.ttf");
+  src: url("..//assets//fonts//Poppins-ExtraBold.ttf");
+  src: url("..//assets//fonts//Poppins-SemiBold.ttf");
+  src: url("..//assets//fonts//Poppins-Medium.ttf");
+  src: url("..//assets//fonts//Poppins-Regular.ttf");
+  src: url("..//assets//fonts//Poppins-Light.ttf");
+  src: url("..//assets//fonts//Poppins-Thin.ttf");
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+  background-color: #D7D9D8;
+  color: #ffffff;
+}
+
+.container {
+  background: #111518;
+	width: 50%;
+	margin: 50px auto;
+	padding: 20px;
+}
+
+.container .badge {
+  position: absolute;
+  top: 34px;
+  right: 306px;
+  padding: 6px;
+  background: #fff;
+  border-radius: 50px;
+  text-decoration: none;
+  border: 1px solid #ccd0d5;
+}
+
+legend {
+  text-align: center;
+  font-weight: 700;
+  font-size: 19px;
+}
+
+form {
+  background-color: #191E22;
+  padding: 20px;
+  line-height: 58px;
+  border-radius: 10px;
+}
+
+form input {
+  padding: 11px;
+  font-size: 15px;
+  background: transparent;
+  border-radius: 5px;
+  border: none;
+  background: #11141A;
+  outline: none;
+  color: #ffffff;
+}
+
+form #name {
+  margin-left: 50px;
+  width: 494px;
+}
+
+form #title {
+  margin-left: 63px;
+  width: 494px;
+}
+
+form #number {
+  margin-left: 36px;
+  width: 494px;
+}
+
+form #email {
+  margin-left: 53px;
+  width: 494px;
+}
+
+form #password {
+  margin-left: 22px;
+  width: 494px;
+}
+
+form #qualification {
+  margin-left: 5px;
+  width: 494px;
+}
+
+form textarea {
+  width: 516px;
+  height: 150px;
+  padding: 11px;
+  box-sizing: border-box;
+  background: transparent;
+  outline: none;
+  border-radius: 5px;
+  border: none;
+  background-color: rgb(51, 42, 78);
+  color: #ffffff;
+  font-size: 15px;
+  resize: none;
+}
+
+form #address {
+  margin-left: 36px;
+  margin-top: 10px;
+}
+
+form #d_o_b { 
+  margin-left: 4px;
+  width: 494px;
+}
+
+form #male {
+  margin-left: 38px;
+}
+
+form #female {
+  margin-left: 70px;
+}
+
+form #other {
+  margin-left: 70px;
+}
+
+form #profile_picture {
+  margin-left: 48px;
+  width: 494px;
+}
+
+form #submit {
+  margin-top: 10px;
+  margin-left: 106px;
+  padding: 14px 61px;
+  cursor: pointer;
+  font-size: 20px;
+  font-weight: 500;
+}
+
+form #submit:hover {
+  background: rgb(92, 78, 143);
+}

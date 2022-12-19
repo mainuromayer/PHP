@@ -1,0 +1,105 @@
+▶ Object Oriented PHP
+	❏ What is OOP
+	❏ Class and Object
+	❏ Properties and Methods
+	❏ The this keyword
+	❏ intanceof operator
+	❏ Constructor and Destructor
+	❏ Inheritance
+	❏ Multilevel Inheritance
+	❏ Access Modifires
+	❏ Method Overriding
+	❏ Constructor Overriding
+	❏ Constant
+	❏ Static Method and Properties
+	❏ Interface
+	❏ Abstract Class
+	❏ Trait
+	❏ Namespace
+
+
+
+
+
+▶ Play with OOP
+	❏ Use of Composer
+	❏ More about Namespace
+	❏ More abut Inheritance
+	❏ Play with static
+	❏ Why we need Interface
+	❏ Polymorphism
+	❏ Dependency Injection
+	❏ Why we need Abstract
+	❏ play with interface and trait
+
+
+
+
+
+▶ PHP Design Patterns
+	❏ What is Design Patterns
+	❏ Types of Design Patterns
+	❏ Singleton Pattern
+	❏ Factory Pattern
+	❏ Observer Pattern
+	❏ Adapter Pattern
+	❏ Builder Pattern
+	❏ Facade Pattern
+	❏ Proxy Pattern
+	❏ Strategy Pattern
+
+
+
+
+
+▶ Coding Principles
+	❏ SOLID Principles
+	❏ DRY Principle
+	❏ KISS principle
+
+
+
+
+
+≣≣≣≣≣≣≣≣≣≣≣≣≣≣≣≣≣≣≣≣≣≣≣≣≣≣≣≣≣≣≣≣≣≣≣≣≣≣≣≣≣≣≣≣≣≣≣≣≣≣≣≣≣≣≣
+
+∎ Advantages of Object Oriented PHP -
+	❏ Re-usability
+	❏ Data Redundancy
+	❏ Code Maintenance
+	❏ Security
+	❏ Design Benefits
+	❏ Better Productivity
+	❏ Easy troubleshooting
+
+
+
+≣≣≣≣≣≣≣≣≣≣≣≣≣≣≣≣≣≣≣≣≣≣≣≣≣≣≣≣≣≣≣≣≣≣≣≣≣≣≣≣≣≣≣≣≣≣≣≣≣≣≣≣≣≣≣
+
+∎ Features of Object Oriented PHP -
+	❏ Abstraction
+	❏ Encapsulation
+	❏ Inheritance
+	❏ Polymorphism
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

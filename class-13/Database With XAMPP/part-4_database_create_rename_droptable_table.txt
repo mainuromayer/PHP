@@ -1,0 +1,86 @@
+
+=================================================================
+
+
+-------------------------------------------------------
+
+
+Create Table Syntax :
+---------------------
+CREATE TABLE <table_name>
+(
+ <column_name1> <datatype(size)>,
+ <column_name2> <datatype(size)>,
+ <column_name3> <datatype(size)>,
+ .
+ .
+ .
+ .
+  <column_nameN> <datatype(size)>
+);
+
+
+--------------------------------------------------------
+
+Example :
+---------
+
+
+
+CREATE TABLE stuent
+(
+    Roll int(5),
+    Name varchar(20),
+    Gender varchar(10),
+    Age int(5),
+    GPA double(3,2),
+    City varchar(2),
+    PRIMARY KEY (Roll)
+);
+
+
+
++-------+
+|  Go	| => Click	or, Ctrl + Enter
++-------+
+
+
+==================================================================
+
+
+
+==================================================================
+
+
+
+
+Rename Table Syntax :
+---------------------
+
+RENAME TABLE <old_name> TO <new_name>
+
+
+
+--------------------------------------------------------
+
+
+Example :
+---------
+
+RENAME TABLE student TO student_details;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+==================================================================

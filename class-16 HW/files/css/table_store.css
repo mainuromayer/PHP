@@ -1,0 +1,77 @@
+@font-face {
+    font-family: Garet sans-serif;
+    src: url("..//assets//fonts//Poppins-Black.ttf");
+    src: url("..//assets//fonts//Poppins-Bold.ttf");
+    src: url("..//assets//fonts//Poppins-ExtraBold.ttf");
+    src: url("..//assets//fonts//Poppins-SemiBold.ttf");
+    src: url("..//assets//fonts//Poppins-Medium.ttf");
+    src: url("..//assets//fonts//Poppins-Regular.ttf");
+    src: url("..//assets//fonts//Poppins-Light.ttf");
+    src: url("..//assets//fonts//Poppins-Thin.ttf");
+}
+
+body {
+    font-family: "Poppins", sans-serif;
+    background-color: #f0f2f5;
+}
+
+h1 pre {
+    color: rgb(122, 111, 160);
+}
+
+h1 span {
+    color: rgb(105, 89, 163);
+}
+
+th, td {
+    padding: 5px 10px;
+    border: 1px solid #48494b;
+}
+
+th {
+    background-color: antiquewhite;
+}
+td {
+    background-color: lightgoldenrodyellow;
+}
+td #update {
+    padding: 10px 13px;
+    margin-bottom: 5px;
+    cursor: pointer;
+    background: #009066;
+    border: none;
+    border-radius: 5px;
+    font-weight: 600;
+}
+td #delete {
+    padding: 10px 15px;
+    cursor: pointer;
+    background: #F2304A;
+    border: none;
+    border-radius: 5px;
+    font-weight: 600;
+}
+td button a {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+img {
+    width: 150px;
+    height: 150px;
+}
+form button {
+    cursor: pointer;
+    font-size: 20px;
+    padding: 11px 20px;
+    outline: none;
+    border: 1px solid #ccd0d5;
+    font-weight: 600;
+    color: #ffffff;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    background-color: rgb(59, 50, 90);
+}
+form button:hover {
+    background: rgb(92, 78, 143);
+}

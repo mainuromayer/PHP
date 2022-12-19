@@ -1,0 +1,21 @@
+Name
+Phone
+Email
+Password
+Profile
+Picture
+Qualification
+Birth_Date
+Admin
+
+User Management System
+User Add
+User Edit, Delete, View
+Login
+
+
+Registration
+Login
+List Show
+user View
+Delete
